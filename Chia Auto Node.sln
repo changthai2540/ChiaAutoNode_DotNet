@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chia Auto Node", "Chia Auto Node\Chia Auto Node.csproj", "{91ECD74F-C30F-404A-BDEE-D4375B45250B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91ECD74F-C30F-404A-BDEE-D4375B45250B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91ECD74F-C30F-404A-BDEE-D4375B45250B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91ECD74F-C30F-404A-BDEE-D4375B45250B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91ECD74F-C30F-404A-BDEE-D4375B45250B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {703DF8BC-5D06-4A29-8D4A-4581BE10AF00}
+	EndGlobalSection
+EndGlobal

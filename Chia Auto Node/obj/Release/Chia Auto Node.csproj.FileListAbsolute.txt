@@ -1,0 +1,10 @@
+C:\Users\Mariana12\source\repos\Chia Auto Node\Chia Auto Node\bin\Release\Chia Auto Node.exe.config
+C:\Users\Mariana12\source\repos\Chia Auto Node\Chia Auto Node\bin\Release\Chia Auto Node.exe
+C:\Users\Mariana12\source\repos\Chia Auto Node\Chia Auto Node\bin\Release\Chia Auto Node.pdb
+C:\Users\Mariana12\source\repos\Chia Auto Node\Chia Auto Node\bin\Release\Newtonsoft.Json.dll
+C:\Users\Mariana12\source\repos\Chia Auto Node\Chia Auto Node\bin\Release\Newtonsoft.Json.xml
+C:\Users\Mariana12\source\repos\Chia Auto Node\Chia Auto Node\obj\Release\Chia Auto Node.csprojAssemblyReference.cache
+C:\Users\Mariana12\source\repos\Chia Auto Node\Chia Auto Node\obj\Release\Chia Auto Node.csproj.CoreCompileInputs.cache
+C:\Users\Mariana12\source\repos\Chia Auto Node\Chia Auto Node\obj\Release\Chia Auto Node.csproj.CopyComplete
+C:\Users\Mariana12\source\repos\Chia Auto Node\Chia Auto Node\obj\Release\Chia Auto Node.exe
+C:\Users\Mariana12\source\repos\Chia Auto Node\Chia Auto Node\obj\Release\Chia Auto Node.pdb
